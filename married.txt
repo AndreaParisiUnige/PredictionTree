@@ -1,0 +1,13 @@
+Car_1
+Car_1 CarType_1 =Yes Gender_1 =No
+CarType_1 Prediction_1 =Sport Prediction_2 =Luxury HomeOwner_1 =Familiar
+Gender_1 Prediction_3 =Female Taxable_1 =Male
+Prediction_1 END_1 =Single
+Prediction_2 END_2 =Married
+HomeOwner_1 Prediction_4 =Yes Prediction_5 =No
+Prediction_3 END_3 =Single
+Taxable_1 Prediction_6 <80000 Prediction_7 >=80000
+Prediction_4 END_4 =Married
+Prediction_5 END_5 =Single
+Prediction_6 END_6 =Married
+Prediction_7 END_7 =Divorced
